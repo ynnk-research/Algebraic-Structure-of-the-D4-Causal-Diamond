@@ -1,0 +1,8 @@
+Algebraic Structure of the D4 Causal Diamond - Verification Script
+
+This software implements and verifies the novel geometric and algebraic 
+concepts presented in the paper:
+> Yannick Schmitt. (2026). Algebraic Structure of the D4 Causal Diamond. Zenodo. https://doi.org/10.5281/zenodo.19343721
+
+If you use this code or the implemented algorithms in your research, 
+please cite the paper mentioned above.
